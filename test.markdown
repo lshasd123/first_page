@@ -4,4 +4,4 @@ title: Test Page
 permalink: /test/
 ---
 
-# The page manually create.
+# The Test page manually create.
